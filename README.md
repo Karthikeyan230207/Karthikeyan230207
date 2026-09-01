@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Karthikeyan
 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 Here's my portfolio - (https://portfolio-web-4d1a2c.netlify.app/)  <br>                                - 🌱 I’m currently learning DSA and Integrating AI to my workflow with MERN stack <br>
+- 🔭 Here's my portfolio - (https://karthikeyan230207portfolio.netlify.app/)  <br>                                - 🌱 I’m currently learning DSA and Integrating AI to my workflow with MERN stack <br>
 - My LinkedIn Profile - (https://linkedin.com/in/karthikeyan2302/)
 
 ### I code in
